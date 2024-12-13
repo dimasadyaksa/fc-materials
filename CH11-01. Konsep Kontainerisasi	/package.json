@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongodb": "^6.10.0",
+    "nodemon": "^3.1.7",
+    "pm2": "^5.4.3"
+  },
+  "scripts": {
+    "start": "nodemon src/app.js"
+  }
+}

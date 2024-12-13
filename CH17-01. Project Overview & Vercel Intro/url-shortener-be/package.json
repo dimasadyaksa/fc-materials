@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@types/node": "^22.10.1",
+    "ioredis": "^5.4.1",
+    "mongoose": "^8.8.4"
+  }
+}
